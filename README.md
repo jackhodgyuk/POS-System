@@ -4,4 +4,4 @@ I am currently working with AI to receive a solid build of this McDonalds-like s
 
 It involves drinks display/food display screens as well as a core POS system to input order into the system.
 
-CLICK THE MAIN LAUNCHER.PY to start the program!
+CLICK THE MAIN LAUNCHER.PY to start the program and ensure all files are kept in the POS folder.
